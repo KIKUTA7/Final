@@ -56,6 +56,7 @@ function Main(props: MainProps) {
           handlePagechange={handlePageChange}
         />
       )}
+      <div className="pageBottom"></div>
     </div>
   );
 }
