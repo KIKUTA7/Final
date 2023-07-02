@@ -21,11 +21,14 @@ interface MainProps {
   setPage: Function;
   Page: number;
   filter: boolean;
+  setLoaded: Function;
 }
 
 function Main(props: MainProps) {
   const handlePageChange = (pageNumber: number) => {
+    props.setLoaded(false);
     props.setPage(pageNumber);
+    setTimeout(() => props.setLoaded(true), 3000);
   };
 
   return (

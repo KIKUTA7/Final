@@ -7,6 +7,8 @@ import Myauto from "./components/myauto";
 import Navbar from "./components/navbar";
 import Main from "./components/main";
 
+import { ReactComponent as LoadIcon } from "./pulse-rings-3.svg";
+
 function App() {
   const [link, setLink] = useState<string>(
     "https://api2.myauto.ge/ka/products/?ForRent=&Mans=&Cats=&PriceFrom=&PriceTo=&Period=&SortOrder=&Page="
@@ -46,6 +48,7 @@ function App() {
   }
 
   const [metaData, setMetaData] = useState<MetaData | null>(null);
+  const [loaded, setLoaded] = useState<any>(false);
 
   let IDs: number[] = car.map((x) => x.car_id);
 
@@ -57,18 +60,23 @@ function App() {
         setMetaData(data.data.meta);
       })
       .catch((err) => console.log(err));
-    console.log(fullLink);
   }, [fullLink]);
 
+  setTimeout(() => setLoaded(true), 5000);
+
   const handlePeriodChange = (event: ChangeEvent<HTMLSelectElement>) => {
+    setLoaded(false);
     let per = parseInt(event.target.value);
     setPeriod(
       per <= 3 ? `${per}h` : per <= 72 ? `${per / 24}d` : `${per / 168}w`
     );
+    setTimeout(() => setLoaded(true), 3000);
   };
 
   const handleSortOrderChange = (event: ChangeEvent<HTMLSelectElement>) => {
+    setLoaded(false);
     setSortOrder(parseInt(event.target.value));
+    setTimeout(() => setLoaded(true), 3000);
   };
 
   useEffect(() => {
@@ -82,19 +90,26 @@ function App() {
   });
 
   const [filter, setFilter] = useState<any>(false);
+  const [filterClassName, setFilterClassName] = useState<any>("hidden");
 
   const styles: React.CSSProperties = {
     width: "15px",
   };
+
+  function setFilterClass() {
+    if (filterClassName === "hidden") setFilterClassName("hiddenClick");
+    else setFilterClassName("hidden");
+  }
 
   return (
     <>
       <Header />
       <Myauto />
       <button
-        className="hidden"
+        className={filterClassName}
         onClick={() => {
           setFilter(!filter);
+          setFilterClass();
         }}
       >
         <svg
@@ -141,6 +156,7 @@ function App() {
           selectCurrency={selectCurrency}
           currency={currency}
           setPage={setPage}
+          setLoaded={setLoaded}
         />
       ) : (
         filter && (
@@ -149,6 +165,7 @@ function App() {
             selectCurrency={selectCurrency}
             currency={currency}
             setPage={setPage}
+            setLoaded={setLoaded}
           />
         )
       )}
@@ -164,7 +181,13 @@ function App() {
         meta={metaData}
         selectCurrency={setCurrency}
         currency={currency}
+        setLoaded={setLoaded}
       />
+      {!loaded && (
+        <div className="load-global">
+          <LoadIcon className="load-icon" />
+        </div>
+      )}
     </>
   );
 }

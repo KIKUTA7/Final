@@ -8,9 +8,16 @@ interface FilterProps {
   currency: string;
   selectCurrency: Function;
   setPage: Function;
+  setLoaded: Function;
 }
 
-function Filter({ setLink, currency, selectCurrency, setPage }: FilterProps) {
+function Filter({
+  setLoaded,
+  setLink,
+  currency,
+  selectCurrency,
+  setPage,
+}: FilterProps) {
   const [selectedBox, setSelectedBox] = useState<number | null>(1);
   const [manNames, setManNames] = useState<string[]>([]);
   const [dataFromMans, setDataFromMans] = useState<any[]>([]);
@@ -110,9 +117,14 @@ function Filter({ setLink, currency, selectCurrency, setPage }: FilterProps) {
 
   const handleBoxClick = (boxNumber: number) => {
     setSelectedBox(boxNumber === selectedBox ? null : boxNumber);
+    setManName([]);
+    setCat([]);
+    setModel({});
+    setGarigebisTipi([]);
   };
 
   const handleFilter = () => {
+    setLoaded(false);
     setPage(1);
     const ForRent = garigebisTipi.map((x) => (x === "იყიდება" ? 0 : 1)).join();
     const manIdsForNames = manName.map(
@@ -153,6 +165,7 @@ function Filter({ setLink, currency, selectCurrency, setPage }: FilterProps) {
       currency === "GEL" ? upperBoundPrice : upperBoundPrice * 2.5;
     const url = `https://api2.myauto.ge/ka/products/?ForRent=${ForRent}&Mans=${Mans}&Cats=${Cats}&PriceFrom=${PriceFrom}&PriceTo=${PriceTo}`;
     setLink(url);
+    setTimeout(() => setLoaded(true), 3000);
   };
 
   return (
