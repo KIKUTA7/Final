@@ -450,7 +450,7 @@ input[type="checkbox"]:checked {
   display: none;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 400px) {
   .filter {
     order: 0;
   }
@@ -663,7 +663,7 @@ input[type="checkbox"]:checked {
     z-index: 10;
     position: absolute;
     top: 40px;
-    left: 150px;
+    left: 162px;
     width: 180px;
     height: 180px;
   }

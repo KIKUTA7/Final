@@ -135,7 +135,7 @@ function App() {
         <div style={styles}></div>
         ფილტრი
       </button>
-      {window.innerWidth > 374 ? (
+      {window.innerWidth > 1125 ? (
         <Filter
           setLink={setLink}
           selectCurrency={selectCurrency}
