@@ -1,0 +1,2648 @@
+[
+  {
+    "man_id": "1",
+    "man_name": "ALFA ROMEO",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "2",
+    "man_name": "AUDI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "3",
+    "man_name": "BMW",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "4",
+    "man_name": "CADILLAC",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "5",
+    "man_name": "CHEVROLET",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "6",
+    "man_name": "CHRYSLER",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "7",
+    "man_name": "CITROEN",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "8",
+    "man_name": "DAEWOO",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "9",
+    "man_name": "DAIHATSU",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "10",
+    "man_name": "DODGE",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "11",
+    "man_name": "FIAT",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "12",
+    "man_name": "FORD",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "13",
+    "man_name": "GMC",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "14",
+    "man_name": "HONDA",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "15",
+    "man_name": "HUMMER",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "16",
+    "man_name": "HYUNDAI",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "17",
+    "man_name": "ISUZU",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "18",
+    "man_name": "JAGUAR",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "19",
+    "man_name": "JEEP",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "20",
+    "man_name": "KIA",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "21",
+    "man_name": "LANCIA",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "22",
+    "man_name": "LAND ROVER",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "23",
+    "man_name": "LEXUS",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "24",
+    "man_name": "MAZDA",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "25",
+    "man_name": "MERCEDES-BENZ",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "26",
+    "man_name": "MERCURY",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "28",
+    "man_name": "MINI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "29",
+    "man_name": "MITSUBISHI",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "30",
+    "man_name": "NISSAN",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "31",
+    "man_name": "OPEL",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "32",
+    "man_name": "PEUGEOT",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "33",
+    "man_name": "PORSCHE",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "34",
+    "man_name": "RENAULT",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "35",
+    "man_name": "ROVER",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "36",
+    "man_name": "SAAB",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "37",
+    "man_name": "SEAT",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "38",
+    "man_name": "SKODA",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "39",
+    "man_name": "SUBARU",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "40",
+    "man_name": "SUZUKI",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "41",
+    "man_name": "TOYOTA",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "42",
+    "man_name": "VOLKSWAGEN",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "43",
+    "man_name": "VOLVO",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "44",
+    "man_name": "VAZ",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "45",
+    "man_name": "GAZ",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "48",
+    "man_name": "MOSKVICH",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "53",
+    "man_name": "INFINITI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "54",
+    "man_name": "PONTIAC",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "55",
+    "man_name": "SCION",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "56",
+    "man_name": "OLDSMOBILE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "57",
+    "man_name": "NEOPLAN",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "58",
+    "man_name": "LINCOLN",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "59",
+    "man_name": "YAMAHA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "61",
+    "man_name": "KAWASAKI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "62",
+    "man_name": "IVECO",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "64",
+    "man_name": "SSANGYONG",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "65",
+    "man_name": "MAN",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "66",
+    "man_name": "DAF",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "67",
+    "man_name": "SCHMITZ",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "69",
+    "man_name": "BUICK",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "70",
+    "man_name": "ACURA",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "71",
+    "man_name": "CATERPILLAR",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "73",
+    "man_name": "LAMBORGHINI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "74",
+    "man_name": "FERRARI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "75",
+    "man_name": "MASERATI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "76",
+    "man_name": "ASTON MARTIN",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "78",
+    "man_name": "BENTLEY",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "79",
+    "man_name": "ROLLS-ROYCE",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "80",
+    "man_name": "MAYBACH",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "81",
+    "man_name": "DUCATI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "82",
+    "man_name": "SCANIA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "84",
+    "man_name": "CHERY",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "85",
+    "man_name": "JAC",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "87",
+    "man_name": "BYD",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "88",
+    "man_name": "ROEWE",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "89",
+    "man_name": "GEELY",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "92",
+    "man_name": "TATA",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "93",
+    "man_name": "SATURN",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "95",
+    "man_name": "UAZ",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "97",
+    "man_name": "ZAZ",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "99",
+    "man_name": "ZIL",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "101",
+    "man_name": "KAMAZ",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "102",
+    "man_name": "MAZ",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "104",
+    "man_name": "HARLEY-DAVIDSON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "105",
+    "man_name": "KTM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "106",
+    "man_name": "JAWA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "107",
+    "man_name": "APRILIA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "108",
+    "man_name": "KRAZ",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "109",
+    "man_name": "SETRA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "110",
+    "man_name": "JCB",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "111",
+    "man_name": "BOBCAT",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "112",
+    "man_name": "KOMATSU",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "113",
+    "man_name": "TEREX",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "114",
+    "man_name": "NEW HOLLAND",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "115",
+    "man_name": "MASSEY FERGUSON",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "116",
+    "man_name": "FIAT-HITACHI",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "117",
+    "man_name": "FERMEC",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "119",
+    "man_name": "CLAAS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "120",
+    "man_name": "BELARUS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "121",
+    "man_name": "CASE",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "122",
+    "man_name": "ZEPPELIN",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "123",
+    "man_name": "MONDIAL",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "124",
+    "man_name": "BRP",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "125",
+    "man_name": "LINTEX",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "126",
+    "man_name": "VOSKHOD",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "127",
+    "man_name": "DNEPR",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "128",
+    "man_name": "CZ",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "129",
+    "man_name": "MURAVEY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "130",
+    "man_name": "HAFEI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "131",
+    "man_name": "ZOOMLION",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "132",
+    "man_name": "HOWO",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "133",
+    "man_name": "LiuGong",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "134",
+    "man_name": "SINOTRUK – HOWO",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "136",
+    "man_name": "POLARIS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "138",
+    "man_name": "GREATWALL",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "139",
+    "man_name": "CAGIVA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "140",
+    "man_name": "DERBI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "141",
+    "man_name": "TRIUMPH",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "142",
+    "man_name": "LIEBHERR",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "143",
+    "man_name": "FOTON",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "144",
+    "man_name": "NAZ",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "145",
+    "man_name": "AGUSTA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "146",
+    "man_name": "DONGFENG",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "152",
+    "man_name": "BRANSON",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "153",
+    "man_name": "Detank",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "154",
+    "man_name": "Deutz-Fahr",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "155",
+    "man_name": "TESLA",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "156",
+    "man_name": "URAL",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "157",
+    "man_name": "Fortschritt",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "158",
+    "man_name": "Xingtai",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "159",
+    "man_name": "KARSAN",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "160",
+    "man_name": "HIDROMEK",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "161",
+    "man_name": "CHANGAN",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "162",
+    "man_name": "LIFAN",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "163",
+    "man_name": "SHACMAN",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "166",
+    "man_name": "MG",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "167",
+    "man_name": "HYSTER",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "176",
+    "man_name": "HAVAL",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "177",
+    "man_name": "FAYMONVILLE",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "178",
+    "man_name": "MAXTRAILER",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "179",
+    "man_name": "NIEWIADOW",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "180",
+    "man_name": "HUSQVARNA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "181",
+    "man_name": "MOTO GUZZI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "182",
+    "man_name": "CHL",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "183",
+    "man_name": "FISKER",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "184",
+    "man_name": "ADT",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "185",
+    "man_name": "John deere",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "186",
+    "man_name": "VALTRA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "188",
+    "man_name": "TERBERG",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "189",
+    "man_name": "UNU",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "190",
+    "man_name": "BETA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "193",
+    "man_name": "VESPA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "194",
+    "man_name": "PIAGGIO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "195",
+    "man_name": "SYM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "196",
+    "man_name": "BUELL",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "197",
+    "man_name": "LOVOL",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "198",
+    "man_name": "Bomag",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "201",
+    "man_name": "KRONE",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "202",
+    "man_name": "TCM",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "203",
+    "man_name": "HINOMOTO",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "204",
+    "man_name": "BRENDEROUP",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "205",
+    "man_name": "Farmtrac",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "206",
+    "man_name": "BRENTEX",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "207",
+    "man_name": "BRILLIANCE",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "208",
+    "man_name": "KUBOTA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "209",
+    "man_name": "ISEKI",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "210",
+    "man_name": "YANMAR",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "211",
+    "man_name": "BCS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "212",
+    "man_name": "SWM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "213",
+    "man_name": "HANWAY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "214",
+    "man_name": "Pony",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "215",
+    "man_name": "ABM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "216",
+    "man_name": "ALFER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "217",
+    "man_name": "AMERICAN IRONHORSE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "218",
+    "man_name": "APOLLO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "219",
+    "man_name": "ARLEN NESS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "220",
+    "man_name": "ARMADA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "221",
+    "man_name": "ASIAWING",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "222",
+    "man_name": "AVANTIS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "223",
+    "man_name": "AZEL",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "224",
+    "man_name": "BSE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "225",
+    "man_name": "BAJAJ",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "226",
+    "man_name": "BALTMOTORS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "227",
+    "man_name": "BARS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "229",
+    "man_name": "BIG BEAR CHOPPERS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "230",
+    "man_name": "BIG DOG MOTOCYCLES",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "231",
+    "man_name": "BIMOTA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "232",
+    "man_name": "BLATA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "233",
+    "man_name": "BOOM TRIKES",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "234",
+    "man_name": "BOSS HOSS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "235",
+    "man_name": "BUCCIMOTO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "236",
+    "man_name": "CF Moto",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "237",
+    "man_name": "CPI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "238",
+    "man_name": "CARVER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "239",
+    "man_name": "CENTURION",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "240",
+    "man_name": "COBRA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "241",
+    "man_name": "CONFEDERATE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "242",
+    "man_name": "CRONUS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "243",
+    "man_name": "DKW",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "244",
+    "man_name": "DM TELAI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "245",
+    "man_name": "DELLER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "246",
+    "man_name": "DESERT RAVEN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "247",
+    "man_name": "EBR",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "248",
+    "man_name": "EUROTEX",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "249",
+    "man_name": "FALCON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "250",
+    "man_name": "FIGHTER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "251",
+    "man_name": "FINE CUSTOM MECHANICS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "252",
+    "man_name": "FORSAGE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "253",
+    "man_name": "FUTONG",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "254",
+    "man_name": "G-MAX",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "255",
+    "man_name": "GAS GAS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "256",
+    "man_name": "GR",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "257",
+    "man_name": "GX MOTO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "258",
+    "man_name": "GILERA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "259",
+    "man_name": "GRYPHON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "260",
+    "man_name": "HONLING",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "261",
+    "man_name": "HUSABERG",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "262",
+    "man_name": "HYOSUNG",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "263",
+    "man_name": "IRBIS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "264",
+    "man_name": "INDIAN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "265",
+    "man_name": "JMC",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "269",
+    "man_name": "JIANSHE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "270",
+    "man_name": "JOHNNY PAG",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "271",
+    "man_name": "KAYO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "272",
+    "man_name": "KXD",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "273",
+    "man_name": "KAXA MOTORS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "274",
+    "man_name": "KEEWAY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "275",
+    "man_name": "KYMCO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "276",
+    "man_name": "LEGEND",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "277",
+    "man_name": "LONCIN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "278",
+    "man_name": "MV AGUSTA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "279",
+    "man_name": "MZ",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "280",
+    "man_name": "MALAGUTI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "281",
+    "man_name": "MIKILON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "282",
+    "man_name": "MINSK",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "283",
+    "man_name": "MOTAX",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "284",
+    "man_name": "MOTO MORINI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "285",
+    "man_name": "MOTOLAND",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "286",
+    "man_name": "NEXUS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "287",
+    "man_name": "NIPPONIA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "288",
+    "man_name": "NORTON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "289",
+    "man_name": "OHVALE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "290",
+    "man_name": "OMAKS MOTORS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "291",
+    "man_name": "ORION",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "292",
+    "man_name": "PANNONIA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "293",
+    "man_name": "PATRON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "294",
+    "man_name": "PIONEER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "295",
+    "man_name": "PITSTER PRO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "296",
+    "man_name": "PROGASI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "297",
+    "man_name": "RACER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "298",
+    "man_name": "REGAL RAPTOR",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "299",
+    "man_name": "REGGY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "300",
+    "man_name": "REGULMOTO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "301",
+    "man_name": "RIEJU",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "302",
+    "man_name": "ROKON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "303",
+    "man_name": "ROYAL ENFIELD",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "304",
+    "man_name": "RUCKER PERFOMANCE",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "305",
+    "man_name": "S2 MOTORS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "306",
+    "man_name": "SACHS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "307",
+    "man_name": "SAGITTA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "308",
+    "man_name": "SAXON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "309",
+    "man_name": "SHERCO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "310",
+    "man_name": "SIAMOTO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "311",
+    "man_name": "SIMSON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "312",
+    "man_name": "SKYGO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "313",
+    "man_name": "SONIK",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "314",
+    "man_name": "STELS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "315",
+    "man_name": "STINGRAY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "316",
+    "man_name": "SUPER SOCO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "317",
+    "man_name": "SWIFT",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "318",
+    "man_name": "TM RACING",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "319",
+    "man_name": "TVS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "320",
+    "man_name": "TACITA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "321",
+    "man_name": "TITAN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "322",
+    "man_name": "TRAVERTSON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "323",
+    "man_name": "UM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "324",
+    "man_name": "VENTU",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "325",
+    "man_name": "VICTORY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "326",
+    "man_name": "VIPER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "327",
+    "man_name": "VIRUS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "328",
+    "man_name": "VYRUS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "329",
+    "man_name": "WELS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "330",
+    "man_name": "XMOTOS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "331",
+    "man_name": "YCF",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "332",
+    "man_name": "YAMASAKI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "333",
+    "man_name": "YINXIANG",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "334",
+    "man_name": "ZERO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "336",
+    "man_name": "ZONGSHEN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "337",
+    "man_name": "ZONTES",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "338",
+    "man_name": "TMZ",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "339",
+    "man_name": "DAELIM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "340",
+    "man_name": "PALFINGER",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "341",
+    "man_name": "LOTUS",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "342",
+    "man_name": "DOOSAN",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "343",
+    "man_name": "HAIHONG",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "344",
+    "man_name": "ZETOR",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "345",
+    "man_name": "AGT",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "346",
+    "man_name": "XGMA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "347",
+    "man_name": "HELI",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "348",
+    "man_name": "SINNIS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "349",
+    "man_name": "NIU",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "350",
+    "man_name": "SOLIS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "351",
+    "man_name": "SHANTUI",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "352",
+    "man_name": "BENELLI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "354",
+    "man_name": "BASHAN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "355",
+    "man_name": "ATLAS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "356",
+    "man_name": "ODES",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "357",
+    "man_name": "CHAMP",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "358",
+    "man_name": "HiSUN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "359",
+    "man_name": "GABRO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "360",
+    "man_name": "FAW",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "361",
+    "man_name": "Toyomax",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "362",
+    "man_name": "Mannesmann Demag",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "363",
+    "man_name": "Van Hool",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "364",
+    "man_name": "TEMSA ",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "365",
+    "man_name": "SAMPO ROSENLEW",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "366",
+    "man_name": "ARIIC",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "367",
+    "man_name": "ARGO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "368",
+    "man_name": "CBS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "369",
+    "man_name": "SUMITOMO",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "371",
+    "man_name": "MST",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "372",
+    "man_name": "SDLG",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "373",
+    "man_name": "SANY",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "374",
+    "man_name": "BUGATTI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "376",
+    "man_name": "ZXAUTO",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "377",
+    "man_name": "LTI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "378",
+    "man_name": "ROYAL ALLOY",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "379",
+    "man_name": "LONGJIA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "380",
+    "man_name": "ZNEN",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "381",
+    "man_name": "LUZHONG",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "385",
+    "man_name": "HINO",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "386",
+    "man_name": "LINHAI",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "387",
+    "man_name": "EXPLORER",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "388",
+    "man_name": "OTOKAR",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "389",
+    "man_name": "GENIE",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "390",
+    "man_name": "YTO",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "391",
+    "man_name": "EOUGEM",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "392",
+    "man_name": "STA",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "393",
+    "man_name": "ABG",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "394",
+    "man_name": "Hamm ",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "395",
+    "man_name": "SEM",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "396",
+    "man_name": "HITACHI",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "397",
+    "man_name": "SOUEAST",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "400",
+    "man_name": "BAIC",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "401",
+    "man_name": "LONKING",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "402",
+    "man_name": "KOGEL",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "403",
+    "man_name": "MCLAREN",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "404",
+    "man_name": "LAMBRETTA",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "406",
+    "man_name": "JIALING",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "410",
+    "man_name": "PROTON",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "418",
+    "man_name": "ARBOS",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "422",
+    "man_name": "IRAN KHODRO",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "424",
+    "man_name": "SMART",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "428",
+    "man_name": "BAMX",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "432",
+    "man_name": "SUR-RON",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "434",
+    "man_name": "CHTZ (ЧТЗ)",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "437",
+    "man_name": "TGB",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "441",
+    "man_name": "AMC",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "444",
+    "man_name": "Sanyou",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "448",
+    "man_name": "Ikarus",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "450",
+    "man_name": "BAODIAO",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "454",
+    "man_name": "CAN AM",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "457",
+    "man_name": "Dacia",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "461",
+    "man_name": "DT",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "465",
+    "man_name": "VLADIMEREC",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "469",
+    "man_name": "LeapMotor",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "473",
+    "man_name": " ARCFOX",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "477",
+    "man_name": "ZEEKR",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "481",
+    "man_name": "VOYAH",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "485",
+    "man_name": "HONGQI",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "489",
+    "man_name": "Huawei",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "493",
+    "man_name": "Li Xiang",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "497",
+    "man_name": "XPENG",
+    "is_car": "1",
+    "is_spec": "0",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "515",
+    "man_name": "AZIMUT YACHTS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "519",
+    "man_name": "TESORO YACHTS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "523",
+    "man_name": "REGAL BOATS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "525",
+    "man_name": "KEWS",
+    "is_car": "0",
+    "is_spec": "0",
+    "is_moto": "1"
+  },
+  {
+    "man_id": "529",
+    "man_name": "FASSI",
+    "is_car": "0",
+    "is_spec": "1",
+    "is_moto": "0"
+  },
+  {
+    "man_id": "533",
+    "man_name": "KAMA",
+    "is_car": "1",
+    "is_spec": "1",
+    "is_moto": "0"
+  }
+]
