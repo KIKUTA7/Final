@@ -171,7 +171,7 @@ function Filter({
     }
 
     window.scrollTo({ top: 0, behavior: "smooth" });
-    setTimeout(() => setLoaded(true), 3000);
+    setTimeout(() => setLoaded(true), 7000);
   };
 
   return (

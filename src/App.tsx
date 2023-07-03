@@ -76,7 +76,7 @@ function App() {
     }
 
     window.scrollTo({ top: 0, behavior: "smooth" });
-    setTimeout(() => setLoaded(true), 3000);
+    setTimeout(() => setLoaded(true), 7000);
   };
 
   const handleSortOrderChange = (event: ChangeEvent<HTMLSelectElement>) => {
@@ -88,7 +88,7 @@ function App() {
     }
 
     window.scrollTo({ top: 0, behavior: "smooth" });
-    setTimeout(() => setLoaded(true), 3000);
+    setTimeout(() => setLoaded(true), 7000);
   };
 
   useEffect(() => {

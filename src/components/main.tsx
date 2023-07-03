@@ -34,7 +34,7 @@ function Main(props: MainProps) {
 
     window.scrollTo({ top: 0, behavior: "smooth" });
     props.setPage(pageNumber);
-    setTimeout(() => props.setLoaded(true), 3000);
+    setTimeout(() => props.setLoaded(true), 7000);
   };
 
   return (
