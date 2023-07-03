@@ -70,12 +70,20 @@ function App() {
     setPeriod(
       per <= 3 ? `${per}h` : per <= 72 ? `${per / 24}d` : `${per / 168}w`
     );
+    const rootElement = document.getElementById("root");
+    if (rootElement) {
+      rootElement.scrollTop = 0;
+    }
     setTimeout(() => setLoaded(true), 3000);
   };
 
   const handleSortOrderChange = (event: ChangeEvent<HTMLSelectElement>) => {
     setLoaded(false);
     setSortOrder(parseInt(event.target.value));
+    const rootElement = document.getElementById("root");
+    if (rootElement) {
+      rootElement.scrollTop = 0;
+    }
     setTimeout(() => setLoaded(true), 3000);
   };
 

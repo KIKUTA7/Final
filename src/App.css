@@ -474,6 +474,12 @@ input[type="checkbox"]:checked {
     order: 0;
   }
 
+  #root {
+    position: fixed;
+    overflow-y: scroll;
+    height: 100vh;
+  }
+
   body {
     display: flex;
     flex-direction: column;
@@ -744,7 +750,7 @@ input[type="checkbox"]:checked {
     height: 100vh;
     background: #f2f3f6;
     position: -webkit-sticky;
-    left: -27%;
+    left: 0;
     top: 0;
     display: flex;
     align-items: center;

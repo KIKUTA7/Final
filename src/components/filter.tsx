@@ -165,6 +165,10 @@ function Filter({
       currency === "GEL" ? upperBoundPrice : upperBoundPrice * 2.5;
     const url = `https://api2.myauto.ge/ka/products/?ForRent=${ForRent}&Mans=${Mans}&Cats=${Cats}&PriceFrom=${PriceFrom}&PriceTo=${PriceTo}`;
     setLink(url);
+    const rootElement = document.getElementById("root");
+    if (rootElement) {
+      rootElement.scrollTop = 0;
+    }
     setTimeout(() => setLoaded(true), 3000);
   };
 

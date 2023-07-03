@@ -27,6 +27,11 @@ interface MainProps {
 function Main(props: MainProps) {
   const handlePageChange = (pageNumber: number) => {
     props.setLoaded(false);
+    const rootElement = document.getElementById("root");
+
+    if (rootElement) {
+      rootElement.scrollTop = 0;
+    }
     props.setPage(pageNumber);
     setTimeout(() => props.setLoaded(true), 3000);
   };
