@@ -469,6 +469,14 @@ input[type="checkbox"]:checked {
   fill: rgb(253, 65, 0);
 }
 
+.pageBottom {
+  position: absolute;
+  top: 3000px;
+  width: 100%;
+  height: 2vh;
+  background-color: transparent;
+}
+
 @media only screen and (max-width: 400px) {
   .filter {
     order: 0;
@@ -702,7 +710,7 @@ input[type="checkbox"]:checked {
     position: relative;
     top: 140px;
     z-index: 1000;
-    left: 45px;
+    left: 36px;
     display: flex;
     width: 120px;
     height: 50px;
@@ -721,7 +729,7 @@ input[type="checkbox"]:checked {
     position: relative;
     top: 140px;
     z-index: 1000;
-    left: 45px;
+    left: 36px;
     display: flex;
     width: 120px;
     height: 50px;
