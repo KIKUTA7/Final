@@ -28,10 +28,11 @@ function Main(props: MainProps) {
   const handlePageChange = (pageNumber: number) => {
     props.setLoaded(false);
     const rootElement = document.getElementById("root");
-
     if (rootElement) {
       rootElement.scrollTop = 0;
     }
+
+    window.scrollTo({ top: 0, behavior: "smooth" });
     props.setPage(pageNumber);
     setTimeout(() => props.setLoaded(true), 3000);
   };

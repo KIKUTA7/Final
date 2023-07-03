@@ -169,6 +169,8 @@ function Filter({
     if (rootElement) {
       rootElement.scrollTop = 0;
     }
+
+    window.scrollTo({ top: 0, behavior: "smooth" });
     setTimeout(() => setLoaded(true), 3000);
   };
 

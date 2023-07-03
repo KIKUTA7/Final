@@ -486,6 +486,7 @@ input[type="checkbox"]:checked {
     position: fixed;
     overflow-y: scroll;
     height: 100vh;
+    padding-right: 55px;
   }
 
   body {
