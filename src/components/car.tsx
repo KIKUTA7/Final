@@ -50,27 +50,29 @@ function Car(props: CarProps) {
     const foundCar = props.all_cars.filter(
       (item: any) => props.id === item.car_id
     );
-    const manId = foundCar[0].man_id;
-    setCar(foundCar);
-    setManId(manId);
-  }, [props.all_cars, props]);
 
-  useEffect(() => {
-    fetch(`https://api2.myauto.ge/ka/getManModels?man_id=${car[0]?.man_id}`)
-      .then((response) => response.json())
-      .then((data) => {
-        setModel(
-          data.data.find(
-            (temp: any) =>
-              temp.model_id ===
-              props.all_cars.filter((x) => x.car_id === props.id)[0]["model_id"]
-          ).model_name
-        );
-      })
-      .catch((error) => {
-        console.error(error);
-      });
-  });
+    if (foundCar) {
+      const manId = foundCar[0].man_id;
+      setCar(foundCar);
+      setManId(manId);
+
+      fetch(`https://api2.myauto.ge/ka/getManModels?man_id=${manId}`)
+        .then((response) => response.json())
+        .then((data) => {
+          console.log(data);
+          const modelData = data.data.find(
+            (temp: any) => temp.model_id === foundCar[0].model_id
+          );
+
+          if (modelData) {
+            setModel(modelData.model_name);
+          }
+        })
+        .catch((error) => {
+          console.error(error);
+        });
+    }
+  }, [props.all_cars, props]);
 
   if (!car || car.length === 0) return null;
 
