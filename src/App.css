@@ -477,6 +477,16 @@ input[type="checkbox"]:checked {
   background-color: transparent;
 }
 
+.grayRectangle {
+  background-color: #d8dbe2;
+}
+
+.carWhiteSVG {
+  position: absolute;
+  left: 41px;
+  top: 12px;
+}
+
 @media only screen and (max-width: 400px) {
   .filter {
     order: 0;
@@ -554,6 +564,17 @@ input[type="checkbox"]:checked {
     top: 100px;
     width: 320px;
     height: 256px;
+  }
+
+  .carWhiteSVG {
+    position: absolute;
+    left: 77px;
+    top: 30px;
+  }
+
+  .WhiteSVG {
+    width: 170px;
+    height: 170px;
   }
 
   .run {

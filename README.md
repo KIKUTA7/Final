@@ -4,4 +4,4 @@ Mariami Shotniashvili
 Giorgi Gogatishvili
 
 
-requirements: npm install moment
+requirements: npm install moment, npm install axios
